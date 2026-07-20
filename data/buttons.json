@@ -1,7 +1,7 @@
 {
   "start": [
     {
-  "id": ["sapaan", "sapaan", "pesan_tiga"],
+  "id": ["sapa", "tanya", "pesan_tiga"],
   "delay": [0, 2000, 3000],
   "label": "Hai 👋🏻",
   "next": "menu"
