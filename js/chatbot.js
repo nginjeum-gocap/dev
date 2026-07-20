@@ -17,9 +17,9 @@ class Chatbot {
             responsesRes,
             buttonsRes
         ] = await Promise.all([
-            fetch("../data/keywords.json"),        
-            fetch("../data/responses.json"),
-            fetch("../data/buttons.json")
+            fetch("data/keywords.json"),        
+            fetch("data/responses.json"),
+            fetch("data/buttons.json")
         ]);
 
         this.keywords = await keywordsRes.json();
