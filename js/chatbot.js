@@ -2,8 +2,7 @@
 
 class Chatbot {
     constructor() {
-    this.keywords = [];
-    this.responses = {};
+    this.responses = [];
     this.buttons = {};
     this.isLoaded = false;
     this.activeContext = null;
@@ -13,16 +12,13 @@ class Chatbot {
     try {
 
         const [
-            keywordsRes,
             responsesRes,
             buttonsRes
         ] = await Promise.all([
-            fetch("data/keywords.json"),        
             fetch("data/responses.json"),
             fetch("data/buttons.json")
         ]);
-
-        this.keywords = await keywordsRes.json();
+        
         this.responses = await responsesRes.json();
         this.buttons = await buttonsRes.json();
 
