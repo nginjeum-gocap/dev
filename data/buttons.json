@@ -1,0 +1,88 @@
+{
+  "start": [
+    {
+  "id": ["sapaan", "sapaan", "pesan_tiga"],
+  "delay": [0, 2000, 3000],
+  "label": "Hai 👋🏻",
+  "next": "menu"
+    }
+
+  ],  
+        
+  "menu": [
+    {
+      "id": "identitas",
+      "label": "Siapa kamu? 🤖",
+      "action": "reply",
+      "next": "cabang"
+    
+    }
+  ],
+  "cabang": [
+    {
+      "id": "pembuat",
+      "label": "Siapa developermu? 🛠️",
+      "action": "reply",
+      "next": "1"      
+    },
+    {
+        "id": "pusat bantuan",
+        "label": "pusat bantuan",
+        "action": "reply",
+        "next": "2"
+    }
+  ],
+
+  "1": [
+    {
+      "id": "github",
+      "label": "GitHub 💻",
+      "action": "url",
+      "value": "https://github.com/AllStudio"
+    },
+    {
+      "id": "sosmed_developer",
+      "label": "Instagram 📸",
+      "action": "reply",
+      "value": "https://instagram.com/AllStudio"
+    },
+    {
+      "id": "website",
+      "label": "Website 🌐",
+      "action": "url",  
+      "value": "https://allstudio.my.id"
+    }
+  ],
+  
+  "2": [
+    {
+        "id": "hallo",
+        "label": "saya..",
+        "action": "reply",
+        "next": "ya-tidak"
+    },
+    {
+        "id": "tentang",
+        "label": "Tentang chat bot",
+        "action": "reply",
+        "next": "penutup"
+    }
+  ],
+  
+  "ya-tidak": [
+      {
+          "id": "mengerti",
+          "label": "okeh saya mengerti",
+          "action": "reply",
+          "next": "penutup"
+      }
+  ],
+  
+  "penutup": [
+      {
+          "id": "terima_kasih",
+          "label": "Okeh terimakasih 👍🏻",
+          "next": "cabang"
+      }
+  ]  
+}

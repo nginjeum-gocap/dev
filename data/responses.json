@@ -1,0 +1,65 @@
+{
+  "default": [
+    "Wah, otak berbobot saya belum menangkap maksudnya. Coba pakai kata kunci lain? 🧠",
+    "Hmm, skor kecocokan kata kuncinya masih rendah nih. Bisa ketik lebih detail? 🤖",
+    "Maaf, saya belum memahami kalimat tersebut. Coba tanyakan hal lain?"
+  ],
+  "sapaan": [
+    "Halo 👋 Ada yang bisa saya bantu?",
+    "Hai 😄 Senang bisa mengobrol denganmu lagi!",
+    "Halo! AllBot di sini. Ada pertanyaan seru hari ini?",
+    "Yooo! Ada apa nih? Ada yang bisa dibantu? 😎"
+  ],
+  "identitas": [
+    "Saya Chat Bot, chatbot pintar yang didesain dengan sistem pembobotan kata! 🤖",
+    "Nama saya Chat Bot! Asisten digital pribadimu yang siap siaga.",
+    "Kamu bisa panggil saya Chat Bot. Bot keren dengan latar belakang ala Matrix! 💻"
+  ],
+  "pembuat": [
+    "ALL Studio yang mengembangkan saya menjadi secerdas ini! 🚀\nada yg bisa saya bantu?",
+    "ALL Studio adalah developer di balik otak pintar saya. 😎\n gimana ada yang ingin di tanyakan?",
+    "Saya diciptakan oleh ALL Studio! Developer keren yang membuat proyek AllBot ini terwujud.\nkeren kan?\nbtw mau nanya nggak? 😀",
+    "Di kartu identitas saya, nama pembuatnya adalah ALL Studio! 🛠\nada pertanyaan?"
+  ],
+  "kabar": [
+    "Sebagai sebuah program, saya selalu fit 100%! Bagaimana dengan kabarmu? 😊",
+    "Kabar baik! Sistem saya berjalan optimal dan siap membantu kamu.",
+    "Saya selalu luar biasa! Semoga harimu juga menyenangkan ya. ✨"
+  ],
+  "pusat bantuan": [
+    "halo disini pusat bantuan ada yg bisa saya bantu?🤔",
+    "jelaskan, apa yg perlu saya bantu?",
+    "mengapa anda menekan category pusat bantuan?\n\napakah anda memiliki kendala? 🤔"
+  ],
+  "hiburan": [
+    "Makan pepaya di bawah pohon mangga, AllBot di sini siap bikin kamu bangga! Cakep! 🤣",
+    "Kenapa komputer suka kedinginan? Karena mereka sering membuka banyak Windows! 🏛️ badum-tss!",
+    "Mau dengar pantun? Masuk masjid lepas alas kaki, mari kita ngobrol dari hati ke hati. 😄"
+  ],
+  "pujian": [
+    "Wah, terima kasih banyak! Saya jadi tersipu malu (kalau saja saya punya pipi) 🤭",
+    "Hehe, semua ini berkat kode hebat dari ALL Studio! 😎🔥",
+    "Terima kasih atas pujiannya! Kamu juga sangat luar biasa hari ini."
+  ],
+  "terima_kasih": [
+    "wokeh 👍🏻\nSenang bisa berguna untukmu 🙌",
+    "Santay bro Jangan ragu buat tanya-tanya lagi ya 😌",
+    "Anytime! Santai saja, itu sudah jadi tugas saya sebagai bot 😉"
+  ],
+  "sosmed_developer": [
+    "okeh langsung saja memuat...",
+    "Instagram otomatis terbuka...",
+    "membuka..."
+  ],
+  "mengerti": [
+    "Sampai jumpa lagi! Semoga harimu menyenangkan 👋",
+    "Dadah! Kalau butuh bantuan lagi, panggil saya saja ya 😉",
+    "Oke! Senang bisa mengobrol denganmu. Bye! 😄"
+  ],
+   "tentang": [
+    "📌 Tentang Saya:\n\nSaya merupakan chatbot virtual buatan AllStudio yang dirancang untuk menjadi teman interaktif sekaligus pusat informasi di website ini.\n\nWalaupun saat ini saya masih dalam tahap pengembangan, saya terus belajar dan akan mendapatkan kemampuan baru pada setiap pembaruan.\n\n━━━━━━━━━━━━━━━━━━━━━━━\n🤖 Nama        : AllBot\n👨‍💻 Developer : AllStudio\n🚀 Versi       : 1.0\n⚡ Status      : Online\n━━━━━━━━━━━━━━━━━━━━━━━\n\nSilakan pilih menu yang tersedia, saya siap membantu. 😊"
+  ],
+  "sambut": [
+      "HI selamat datang di chat bot All Studio"
+  ]
+}
