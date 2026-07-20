@@ -4,14 +4,20 @@
     "Hmm, skor kecocokan kata kuncinya masih rendah nih. Bisa ketik lebih detail? 🤖",
     "Maaf, saya belum memahami kalimat tersebut. Coba tanyakan hal lain?"
   ],
-  "sapaan": [
-    "Halo 👋 Ada yang bisa saya bantu?",
-    "Hai 😄 Senang bisa mengobrol denganmu lagi!",
-    "Halo! AllBot di sini. Ada pertanyaan seru hari ini?",
-    "Yooo! Ada apa nih? Ada yang bisa dibantu? 😎"
+  "sapa": [
+    "Halo 👋",
+    "Hai 😄 Senang bisa mengobrol denganmu! ",
+    "Halo!",
+    "Yooo😎!!! Ada apa nih",
+    "HI selamat datang"
+  ],
+  "tanya": [
+      "Ada yang bisa di bantu?🤔",
+      "Ada pertanyaan seru apa hari ini?\n😎🔥🔥",
+      "ada yg bisa kami bantu? 😎"
   ],
   "identitas": [
-    "Saya Chat Bot, chatbot pintar yang didesain dengan sistem pembobotan kata! 🤖",
+    "Saya Chat Bot pintar yang didesain dengan sistem pembobotan kata! 🤖",
     "Nama saya Chat Bot! Asisten digital pribadimu yang siap siaga.",
     "Kamu bisa panggil saya Chat Bot. Bot keren dengan latar belakang ala Matrix! 💻"
   ],
@@ -58,8 +64,5 @@
   ],
    "tentang": [
     "📌 Tentang Saya:\n\nSaya merupakan chatbot virtual buatan AllStudio yang dirancang untuk menjadi teman interaktif sekaligus pusat informasi di website ini.\n\nWalaupun saat ini saya masih dalam tahap pengembangan, saya terus belajar dan akan mendapatkan kemampuan baru pada setiap pembaruan.\n\n━━━━━━━━━━━━━━━━━━━━━━━\n🤖 Nama        : AllBot\n👨‍💻 Developer : AllStudio\n🚀 Versi       : 1.0\n⚡ Status      : Online\n━━━━━━━━━━━━━━━━━━━━━━━\n\nSilakan pilih menu yang tersedia, saya siap membantu. 😊"
-  ],
-  "sambut": [
-      "HI selamat datang di chat bot All Studio"
   ]
 }
